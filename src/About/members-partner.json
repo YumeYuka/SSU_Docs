@@ -1,0 +1,27 @@
+[
+  {
+    "location": "中国·浙江",
+    "name": "Chenzyadb",
+    "qq": 1834634747,
+    "title": "CU",
+    "company": "千人之诺诺, 不如一士之谔谔",
+    "companyLink": "",
+    "languages": [
+      "简体中文",
+      "English"
+    ],
+    "projects": [
+      {
+        "label": "CuprumTurbo Scheduler",
+        "url": "https://github.com/chenzyadb/CuprumTurbo-Scheduler"
+      },
+      {
+        "label": "Cumulus",
+        "url": "https://github.com/chenzyadb/Cumulus-APP"
+      }
+    ],
+    "socials": {
+      "github": "chenzyadb"
+    }
+  }
+]
