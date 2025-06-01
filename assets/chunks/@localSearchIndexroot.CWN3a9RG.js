@@ -1,1 +1,0 @@
-const t='{"documentCount":1,"nextId":1,"documentIds":{"0":"/Guide/installation#标题"},"fieldIds":{"title":0,"titles":1,"text":2},"fieldLength":{"0":[1,1,2]},"averageFieldLength":[1,1,2],"storedFields":{"0":{"title":"标题","titles":[]}},"dirtCount":0,"index":[["尚未开始编写",{"2":{"0":1}}],["标题",{"0":{"0":1}}]],"serializationVersion":2}';export{t as default};
