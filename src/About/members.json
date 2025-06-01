@@ -1,0 +1,90 @@
+[
+  {
+    "location": "中国",
+    "name": "安音咲汀",
+    "qq": 1520382842,
+    "title": "安音家家主",
+    "company": "可怖的心，骇人的行，如何是好；每日的辛，终无的幸，哪得逃掉？",
+    "companyLink": "https://saki.ja7.top",
+    "languages": [
+      "简中",
+      "正中(Lite)",
+      "EN(Lite)",
+      "日本語(Lite-)"
+    ],
+    "website": {
+      "label": "安音家",
+      "url": "https://saki.ja7.top"
+    },
+    "projects": [
+      {
+        "label": "NGA",
+        "url": "http://app.niggergo.work"
+      },
+      {
+        "label": "FVV",
+        "url": "https://gitcode.com/OutOfMemories-WorkGroup/FVV"
+      }
+    ],
+    "socials": {
+      "github": "GunRain",
+      "x": "Ling_Xi_Zi"
+    }
+  },
+  {
+    "gender": 2,
+    "location": "中国·山东",
+    "name": "Linso",
+    "qq": 3042627767,
+    "title": "SakitinSU作者",
+    "company": "喵喵喵喵~~",
+    "languages": [
+      "简体中文",
+      "English"
+    ],
+    "website": {
+      "label": "Linso",
+      "url": "https://linso.top"
+    },
+    "projects": [
+      {
+        "label": "SakitinSU",
+        "url": "https://gitcode.com/OutOfMemories-WorkGroup"
+      }
+    ],
+    "socials": {
+      "github": "Linso05"
+    }
+  },
+  {
+    "gender": 1,
+    "location": "中国·山东",
+    "name": "YumeYuka",
+    "qq": 3293811490,
+    "title": "喵喵喵",
+    "languages": [
+      "简体中文",
+      "English",
+      "日本語"
+    ],
+    "website": {
+      "label": "YumeYuka++",
+      "url": "https://www.yumeyuka.plus"
+    },
+    "company": "梦——それは现実の続き；现実——それは梦の终わり",
+    "companyLink": "https://github.com/YumeYuka",
+    "projects": [
+      {
+        "label": "SUU Nyanya",
+        "url": "https://github.com/YumeYuka/SUU-Nyanya"
+      },
+      {
+        "label": "Tritium box",
+        "url": "https://github.com/TimeBreeze/Tritium_box"
+      }
+    ],
+    "socials": {
+      "github": "YumeYuka"
+    }
+  }
+]
