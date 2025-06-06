@@ -71,7 +71,7 @@
       "label": "YumeYuka++",
       "url": "https://www.yumeyuka.plus"
     },
-    "company": "梦——それは现実の続き；现実——それは梦の终わり",
+    "company": "喵喵喵",
     "companyLink": "https://github.com/YumeYuka",
     "projects": [
       {
@@ -85,6 +85,35 @@
     ],
     "socials": {
       "github": "YumeYuka"
+    }
+  },
+  {
+    "gender": 1,
+    "location": "中国·浙江",
+    "name": "FengYing",
+    "qq": 236171472,
+    "title": "喵喵喵",
+    "languages": [
+      "简体中文",
+      "English"    ],
+    "website": {
+      "label": "miao520.fun",
+      "url": "https://www.miao520.fun"
+    },
+    "company": "zzZ.....",
+    "companyLink": "https://github.com/FengYing1314",
+    "projects": [
+      {
+        "label": "grok-api-proxy ",
+        "url": "https://github.com/FengYing1314/grok-api-proxy"
+      },
+      {
+        "label": "OriginiumSeal",
+        "url": "https://github.com/FengYing1314/astrbot_plugin_OriginiumSeal"
+      }
+    ],
+    "socials": {
+      "github": "FengYing1314"
     }
   }
 ]
