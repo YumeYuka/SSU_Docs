@@ -102,5 +102,16 @@
 		"socials": {
 			"github": "FengYing1314"
 		}
+	},
+	{
+		"gender": 1,
+		"location": "中国·江西",
+		"name": "诺芳",
+		"qq": 991921514,
+		"title": "喵喵喵",
+		"languages": ["简体中文", "English"],
+		"socials": {
+			"github": "NuoFang6"
+		}
 	}
 ]
