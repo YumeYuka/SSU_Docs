@@ -4,7 +4,7 @@
 		"location": "中国",
 		"name": "安音咲汀",
 		"qq": 1520382842,
-		"title": "安音家家主",
+		"title": "用户空间实现作者",
 		"company": "可怖的心，骇人的行，如何是好；每日的辛，终无的幸，哪得逃掉？",
 		"companyLink": "https://saki.ja7.top",
 		"languages": ["简中", "正中(Lite)", "EN(Lite)", "日本語(Lite-)"],
@@ -19,11 +19,11 @@
 			},
 			{
 				"label": "FVV",
-				"url": "https://gitcode.com/OutOfMemories-WorkGroup/FVV"
+				"url": "https://github.com/OOM-WG/FVV"
 			}
 		],
 		"socials": {
-			"github": "GunRain",
+			"github": "TianwanTW",
 			"x": "Ling_Xi_Zi"
 		}
 	},
@@ -32,19 +32,13 @@
 		"location": "中国·山东",
 		"name": "Linso",
 		"qq": 3042627767,
-		"title": "SakitinSU作者",
+		"title": "内核实现作者",
 		"company": "PrintX/曼珠沙华/秋乐",
 		"languages": ["简体中文", "English"],
 		"website": {
 			"label": "Linso",
 			"url": "https://linso.top"
 		},
-		"projects": [
-			{
-				"label": "SakitinSU",
-				"url": "https://gitcode.com/OutOfMemories-WorkGroup"
-			}
-		],
 		"socials": {
 			"github": "Linso05"
 		}
@@ -54,7 +48,7 @@
 		"location": "中国·山东",
 		"name": "YumeYuka",
 		"qq": 3293811490,
-		"title": "喵喵喵",
+		"title": "文档协作",
 		"languages": ["简体中文", "English", "日本語"],
 		"website": {
 			"label": "YumeYuka++",
@@ -65,7 +59,7 @@
 		"projects": [
 			{
 				"label": "SUU Nyanya",
-				"url": "https://github.com/YumeYuka/SUU-Nyanya"
+				"url": "https://github.com/OOM-WG/SUU-Nyanya"
 			},
 			{
 				"label": "Tritium box",
@@ -81,7 +75,7 @@
 		"location": "中国·浙江",
 		"name": "FengYing",
 		"qq": 236171472,
-		"title": "喵喵喵",
+		"title": "文档协作",
 		"languages": ["简体中文", "English"],
 		"website": {
 			"label": "miao520.fun",
@@ -91,7 +85,7 @@
 		"companyLink": "https://github.com/FengYing1314",
 		"projects": [
 			{
-				"label": "grok-api-proxy ",
+				"label": "grok-api-proxy",
 				"url": "https://github.com/FengYing1314/grok-api-proxy"
 			},
 			{
@@ -106,9 +100,9 @@
 	{
 		"gender": 1,
 		"location": "中国·江西",
-		"name": "诺芳",
+		"name": "悠栾",
 		"qq": 991921514,
-		"title": "喵喵喵",
+		"title": "文档协作",
 		"languages": ["简体中文", "English"],
 		"socials": {
 			"github": "NuoFang6"
